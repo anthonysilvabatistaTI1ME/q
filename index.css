@@ -79,7 +79,8 @@ p {
     width: 12px;
     overflow: hidden;
     white-space: nowrap;
-
+    width: 69px;
+    border: 2px solid #444;
 }
 
 .caixa3 {
@@ -94,4 +95,11 @@ footer {
 
     height: 22px;
     padding-left: 2px;
+}
+span{
+    
+    
+    .box {
+        border-bottom: 9px solid #000000;
+      }
 }
